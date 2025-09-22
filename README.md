@@ -53,6 +53,4 @@ This project demonstrates how Arduino-based assistive wearables can **enhance in
 
 ---
 
-## 📜 License
-This project is released under the **MIT License**.  
-© 2024 National Institute of Technology Silchar [oai_citation:3‡16B_HandGlove_Report.pdf](file-service://file-SAX9Ek8dJxcf8rYAQCqQxW)
+
