@@ -6,7 +6,7 @@
     An assistive wearable prototype developed as a B.Tech (ECE) project at NIT Silchar.<br>
     Authors: <b>Akash Sonowal</b> &amp; <b>Rahul Deka</b>
   </p>
-  ![Buzzer Hand Gloves Prorotyope](Hand_Gloves_Prototype.jfif)
+  <img src="Prototype_HandGloves.png" alt="Buzzer Gloves Prototype" width="600" style="max-width:100%;border-radius:8px">
  
 
 </div>
