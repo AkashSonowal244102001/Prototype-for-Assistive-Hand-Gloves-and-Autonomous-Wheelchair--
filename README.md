@@ -7,7 +7,7 @@
     Authors: <b>Akash Sonowal</b> &amp; <b>Rahul Deka</b>
   </p>
 
-  <img src="docs/prototype.jpg" alt="Buzzer Hand Glove Prototype" width="600" style="max-width:100%;border-radius:8px">
+  <img src="" alt="Buzzer Hand Glove Prototype" width="600" style="max-width:100%;border-radius:8px">
 
 </div>
 
