@@ -4,7 +4,7 @@
   <h1>🧤 Buzzer Hand Glove Cum Location-Based Wheelchair</h1>
   <p>
     An assistive wearable prototype developed as a B.Tech (ECE) project at NIT Silchar.<br>
-    Authors: <b>Akash Sonowal</b> &amp; <b>Rahul Deka</b>
+    Authors: <b>Akash Sonowal</b> 
   </p>
   <img src="Prototype_Images/Prototype_HandGloves.png" alt="Buzzer Gloves Prototype" width="600" style="max-width:100%;border-radius:8px">
  
