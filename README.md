@@ -9,10 +9,10 @@
   <img src="Prototype_Images/Prototype_HandGloves.png" alt="Buzzer Gloves Prototype" width="600" style="max-width:100%;border-radius:8px">
 
    </p>
-  <img src="Prototype_Images/Robotic_WheelChair_1.png" alt="Buzzer Gloves Prototype" width="600" style="max-width:100%;border-radius:8px">
+  <img src="Prototype_Images/Robotic_WheelChair_1.jpg" alt="Buzzer Gloves Prototype" width="600" style="max-width:100%;border-radius:8px">
 
     </p>
-  <img src="Prototype_Images/Robotic_WheelChair_2.png" alt="Buzzer Gloves Prototype" width="600" style="max-width:100%;border-radius:8px">
+  <img src="Prototype_Images/Robotic_WheelChair_2.jpg" alt="Buzzer Gloves Prototype" width="600" style="max-width:100%;border-radius:8px">
 
 </div>
 
